@@ -3,13 +3,13 @@ body{
     font-family:Arial, Helvetica, sans-serif;
 }
 
-.assignemnet {
+.assignment {
     display:flex;
     padding: 10px;
     Background: lightgray;
 }
 
-.assignemnet img {
+.assignment img {
     width: 200px;
     Padding: 10px;
 }
