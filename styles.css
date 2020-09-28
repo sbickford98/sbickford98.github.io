@@ -3,6 +3,17 @@ body{
     font-family:Arial, Helvetica, sans-serif;
 }
 
+.assignemnet {
+    display:flex;
+    padding: 10px;
+    Background: lightgray;
+}
+
+.assignemnet img {
+    width: 200px;
+    Padding: 10px;
+}
+
 h1{
     color: darkorchid;
     text-align: center
